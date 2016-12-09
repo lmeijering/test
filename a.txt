@@ -2,7 +2,7 @@
 apples
 oranges
 =======
-sweet apples
+sour apples
 oranges
 >>>>>>> github/master
 kiwis
